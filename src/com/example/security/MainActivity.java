@@ -6,6 +6,10 @@ package com.example.security;
 
 
 
+import com.page.AppelleActivity;
+import com.page.MessageActivity;
+import com.page.ProfileActivity;
+
 import android.app.TabActivity;
 import android.content.Intent;
 import android.os.Bundle;
